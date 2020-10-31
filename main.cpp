@@ -10,8 +10,8 @@ int main(){
 		stack.push(i);
 	}
 
-	cout<<"printing out stack of numbers from 1-20"<<endl;
 	//print the stack top to bottom
+	cout<<"printing out stack of numbers from 1-20"<<endl;
 	stack.print();
 	
 	//lets change the values 10, and 11 to 0 and 0
